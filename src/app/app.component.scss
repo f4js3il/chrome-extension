@@ -1,0 +1,14 @@
+textarea{
+    width: 100%;
+    height: 12rem;
+}
+button{
+    background-color:  white !important; ;
+    color: black !important;
+    border: 1px solid black;
+}
+.place-div{
+    display: grid;
+    place-items: center;
+    margin-block: 1rem;
+}
